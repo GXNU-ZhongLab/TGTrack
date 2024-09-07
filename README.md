@@ -28,3 +28,14 @@ This paper presents a Top-down Cross-modal Guidance mechanism to address the pro
 <p align="center">
   <img width="60%" src="assets/pic-05.png"/>
 </p>
+
+## Citation: 
+```
+@article{chen2024top,
+  title={Top-down Cross-modal Guidance for Robust RGB-T Tracking},
+  author={Chen, Liang and Zhong, Bineng and Liang, Qihua and Zheng, Yaozong and Mo, Zhiyi and Song, Shuxiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
+```
